@@ -9,25 +9,31 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Overview
 
 - [Overview](#overview)
-  - [Surveys](#surveys)
-  - [Team](#team)
-  - [Paradigm](#paradigm)
-    - [Perception & Planning & Control](#perception--planning--control)
-    - [Reinforcement Learning](#reinforcement-learning)
-    - [Imitation Learning](#imitation-learning)
-  - [Embodiment](#embodiment)
-    - [Wheeled Chasis with Manipulator (arm/gripper/hand)](#wheeled-chasis-with-manipulator-armgripperhand)
-    - [Legged Robot with Manipulator (arm/gripper/hand)](#legged-robot-with-manipulator-armgripperhand)
-    - [Humanoid Robot](#humanoid-robot)
-  - [Task](#task)
-  - [Citation](#citation)
+- [Surveys](#surveys)
+- [Team](#team)
+  - [RSL](#Robotic--Systems--Lab-----Legged--Robotics--at--ETH--Zürich--(RSL))
+  - [QCR](#Queensland--University--of--Technology--Centre--for--Robotics--(QCR))
+- [Paradigm](#paradigm)
+  - [Perception & Planning & Control](#perception--planning--control)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Imitation Learning](#imitation-learning)
+- [Embodiment](#embodiment)
+  - [Wheeled Chasis with Manipulator (arm/gripper/hand)](#wheeled-chasis-with-manipulator-armgripperhand)
+  - [Legged Robot with Manipulator (arm/gripper/hand)](#legged-robot-with-manipulator-armgripperhand)
+  - [Humanoid Robot](#humanoid-robot)
+- [Task](#task)
+- [Citation](#citation)
 
 ---
 ## Surveys
 
 ---
 ## Team
+### Robotic Systems Lab - Legged Robotics at ETH Zürich (RSL)
 * **RoboSpatial**: "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics", CVPR, June 2025. [[Paper](https://arxiv.org/abs/2411.16537)] [[Code](https://github.com/NVlabs/RoboSpatial)] [[Website](https://chanh.ee/RoboSpatial/)]
+* 
+### Queensland University of Technology Centre for Robotics (QCR)
+
 
 ---
 ## Paradigm
