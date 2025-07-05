@@ -11,10 +11,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 - [Overview](#overview)
 - [Surveys](#surveys)
 - [Team](#team)
-  - [RSL](#Robotic--Systems--Lab-----Legged--Robotics--at--ETH--Zürich--(RSL))
-  - [QCR](#Queensland--University--of--Technology--Centre--for--Robotics--(QCR))
-  - [CLEAR](#)Control--&--Learning--for--Robotics--and--Autonomy--Lab--(CLEAR)
-  - [LimX](#LimX--Dynamics)
+  - [RSL](#robotic-systems-lab---legged-robotics-at-eth-z%C3%BCrich-rsl)
+  - [QCR](#queensland-university-of-technology-centre-for-robotics-qcr)
+  - [CLEAR](#control--learning-for-robotics-and-autonomy-lab-clear)
+  - [LimX](#limx-dynamics)
 - [Paradigm](#paradigm)
   - [Perception & Planning & Control](#perception--planning--control)
   - [Reinforcement Learning](#reinforcement-learning)
@@ -32,15 +32,15 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Team
 ### Robotic Systems Lab - Legged Robotics at ETH Zürich (RSL)
-* * **Learning to Open and Traverse Doors with a Legged Manipulator**: "Learning to Open and Traverse Doors with a Legged Manipulator", ArXiv, 9 2024. [[Paper](https://arxiv.org/pdf/2409.04882)]
-* 
+* **Learning to Open and Traverse Doors with a Legged Manipulator**: "Learning to Open and Traverse Doors with a Legged Manipulator", ArXiv, 9 2024. [[Paper]([https://arxiv.org/pdf/2409.04882](https://arxiv.org/abs/2409.04882))]
+
 ### Queensland University of Technology Centre for Robotics (QCR)
 
 ### Control & Learning for Robotics and Autonomy Lab (CLEAR)
-* **RFM**: "Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator", RAL, 2 2025. [[Paper](https://arxiv.org/pdf/2412.03012v1)] [[Website](https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/)]
-* 
+* **RFM**: "Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator", RAL, 2 2025. [[Paper]([https://arxiv.org/pdf/2412.03012v1](https://arxiv.org/html/2412.03012v1))] [[Website](https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/)]
+
 ### LimX Dynamics
-* **RFM**: "Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator", RAL, 2 2025. [[Paper](https://arxiv.org/pdf/2412.03012v1)] [[Website](https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/)]
+* **RFM**: "Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator", RAL, 2 2025. [[Paper]([https://arxiv.org/pdf/2412.03012v1](https://arxiv.org/html/2412.03012v1))] [[Website](https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/)]
 
 
 ---
