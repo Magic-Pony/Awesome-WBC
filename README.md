@@ -42,6 +42,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ### LimX Dynamics
 * **RFM**: "Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator", RAL, 2 2025. [[Paper]([https://arxiv.org/pdf/2412.03012v1](https://arxiv.org/html/2412.03012v1))] [[Website](https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/)]
 
+* ### TeleAI
+* **KongfuBot**: "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills", ArXiv, 6 2025. [[Paper](https://arxiv.org/abs/2506.12851)] [[code](https://github.com/TeleHuman/PBHC)] [[Website]([https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/](https://kungfu-bot.github.io/))]
+
+
 
 ---
 ## Paradigm
@@ -57,7 +61,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ### Legged Robot with Manipulator (arm/gripper/hand)
 
 ### Humanoid Robot
-
+* **KongfuBot**: "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills", ArXiv, 6 2025. [[Paper](https://arxiv.org/abs/2506.12851)] [[code](https://github.com/TeleHuman/PBHC)] [[Website]([https://chanh.ee/RoboSpatial/](https://clearlab-sustech.github.io/RFM_loco_mani/](https://kungfu-bot.github.io/))]
+* 
 ## Task
 ----
 ## Citation
